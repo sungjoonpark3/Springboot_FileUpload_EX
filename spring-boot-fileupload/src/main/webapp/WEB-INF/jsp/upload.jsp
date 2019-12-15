@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>스프링부트 파일 업로드</h1>
+<h1>스프링부트 파일 업로드 반영테스트</h1>
 
 	<form method="POST" action="/upload" enctype="multipart/form-data">
 		<input type="file" name="file" /><br />
